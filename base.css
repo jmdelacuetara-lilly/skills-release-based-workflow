@@ -139,3 +139,8 @@ table {
 canvas {
   background-color: black;
 }
+
+/* Set page background */
+body {
+    background-color: black;
+}
